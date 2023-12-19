@@ -1,84 +1,31 @@
 body{
-    background-color: 191825;
+    background-color: 7ED7C1;
     margin-left: 20px;
-    margin-right: 20px;
-    
+    margin-right: 20px; 
 }
 
 div{
-   
     padding-bottom: 5px;
     padding-left: 10px;
-    margin-bottom: 10px;
-    color:#BEFFF7; 
-    
+    margin-bottom: 10px;  
 }
 
 
-#contact{
-    background-color: #164863;
-    border: 5px solid #427D9D;
+#contact,#education,#experience,#skills,#certifications,#projects,#intrests,#languages{
+    background-color: #F0DBAF;
+    border: 5px solid #DC8686;
     border-radius: 10px;
-}
-
-#education{
-    background-color: #427D9D;
-    border: 5px solid #164863;
-    border-radius: 10px;
-}
-
-#experience{
-    background-color: #164863;
-    border: 5px solid #427D9D;
-    border-radius: 10px;
-}
-
-#skills
-{
-    background-color: #427D9D;
-    border: 5px solid #164863;
-    border-radius: 10px;
-}
-
-#certifications{
-    background-color: #164863;
-    border: 5px solid #427D9D;
-    border-radius: 10px;
-}
-
-#projects{
-    background-color: #427D9D;
-    border: 5px solid #164863;
-    border-radius: 10px; 
-}
-
-#intrests{
-    background-color: #164863;
-    border: 5px solid #427D9D;
-    border-radius: 10px;
-}
-
-#languages{
-    background-color: #427D9D;
-    border: 5px solid #164863;
-    border-radius: 10px;  
-}
-
-#intro{
-    text-align: CENTER;
-}
-
-#footer{
-    text-align: CENTER;
-}
-
-h3{
-    color: #A6FF96; 
-    text-transform: uppercase;
 }
 
 #intro,#footer{
-    color: C2DEDC;
+    text-align: CENTER;
+    color: #B06161; 
+}
+
+
+h3{
+    color: #B06161; 
+    text-transform: uppercase;
 }
 
 h1{
@@ -86,6 +33,3 @@ h1{
     text-transform: uppercase;
 }
 
-#sub{
-    text-decoration: underline;
-}
